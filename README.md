@@ -81,14 +81,6 @@ python housing_analysis.py
 - **Scatter Plot**: Shows the relationship between price and area.
 - **Bar Plot**: Depicts the distribution of properties by the number of stories.
 
-## Customization
-- Update the file path in `pd.read_csv()` to match your dataset location.
-- Modify visualizations to include additional features or explore different aspects of the dataset.
-
-## Conclusion
-This script provides a solid foundation for understanding and analyzing housing datasets. By extending the visualizations and statistical methods, you can gain deeper insights into housing market trends.
-
----
 
 ### License
 This project is open source and available under the [MIT License](LICENSE).
